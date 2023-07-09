@@ -1,5 +1,7 @@
 # Cateble-API-Docs
 Все методы API работают через метод запросов POST
+
+
 Ссылка для методов API - cateble.ru/Api/method.php
 
 
